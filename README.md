@@ -92,7 +92,6 @@ For the complete methodology, SQL analysis, Tableau data model, KPI calculations
 
 ## 💬 Feedback
 
-Feedback and suggestions are welcome.  
-If you have ideas for improving the analysis, visualizations, or repository structure, feel free to share them in the discussion below.
+I welcome feedback on the analysis, SQL approach, Tableau dashboard, or business insights.
 
-👉 [Leave feedback on this project](https://github.com/mirmaahirali/telco-customer-churn-analysis/discussions/1)
+If you have suggestions or questions, feel free to [start a discussion](https://github.com/mirmaahirali/lotus-group-retail-performance-analysis/discussions/1).
