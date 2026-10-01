@@ -113,6 +113,7 @@ This analysis evaluates Lotus Group's sales performance across the three-year pe
 | Total Orders        |   12,000 |
 | Units Sold          |   43,313 |
 | Average Order Value | 3,779.25 |
+
 Across the 2022–2024 period, Lotus Group generated approximately **45.35M in revenue from 12,000 orders**, with **43,313 units sold**. The overall average order value was **3,779.25**.
 #### 6.1.2 Revenue Trend
 ##### _Table 6.1 - YoY Revenue Performance_
@@ -121,6 +122,7 @@ Across the 2022–2024 period, Lotus Group generated approximately **45.35M in r
 | 2022 |  15.25M |  3,955 |     14,256 |          — | 3,856.82 |
 | 2023 |  14.52M |  3,987 |     14,308 |     -4.83% | 3,640.91 |
 | 2024 |  15.58M |  4,058 |     14,749 |     +7.33% | 3,839.56 |
+
 Revenue declined by **4.83% in 2023**, despite a slight increase in order volume. This coincided with a decline in AOV from **3,856.82 to 3,640.91**, indicating that the increase in orders was not sufficient to offset the lower average order value. In 2024, revenue recovered with **7.33% year-over-year growth**, supported by continued order growth and an improvement in AOV to **3,839.56**.
 #### 6.1.3 Store & Regional Performance
 ##### _Table 6.2 - Top 5 Stores by Revenue_
@@ -131,6 +133,7 @@ Revenue declined by **4.83% in 2023**, despite a slight increase in order volume
 |3|Lotus Mall of Egypt|Greater Cairo|5,168,939.00|1,518|5,860|
 |4|Lotus Alexandria City Centre|Alexandria|4,488,620.50|1,187|4,090|
 |5|Lotus San Stefano|Alexandria|3,843,826.00|1,010|3,602|
+
 Sales performance varies considerably across stores and regions. **Lotus Cairo Festival City** was the highest-revenue individual store, generating approximately **6.07M**. The three highest-revenue stores—Cairo Festival City, City Stars, and Mall of Egypt—were all located in **Greater Cairo**.
 ##### _Table 6.3 - Sales Performance by Region_
 |Rank|Region|Revenue|Orders|Units Sold|
@@ -142,12 +145,14 @@ Sales performance varies considerably across stores and regions. **Lotus Cairo F
 |5|Upper Egypt|2,829,136.00|795|2,707|
 |6|Red Sea|2,270,525.50|562|1,940|
 |7|South Sinai|1,320,701.00|335|1,334|
+
 At the regional level, **Greater Cairo** was the largest contributor, generating approximately **16.71M**, followed by Alexandria at **8.33M** and the Nile Delta at **7.41M**. Greater Cairo therefore represented approximately **36.8% of total company revenue**, highlighting a significant concentration of sales in the region.
 #### 6.1.4 Product Category & Product Performance
 |Category|Revenue|Units Sold|
 |---|--:|--:|
 |Electronics|34.39M|4,686|
 |Clothing|10.96M|38,627|
+
 Product performance reveals a substantial difference between revenue contribution and sales volume. **Electronics generated 34.39M, approximately 75.8% of total revenue, despite accounting for only 4,686 units sold.** In contrast, Clothing generated 10.96M in revenue from 38,627 units. This indicates that Electronics is the primary revenue driver, while Clothing generates significantly higher sales volume.
 ##### _Table 6.4 - Top 10 Products by Revenue, 2022–2024_
 |Rank|Product|Category|Subcategory|Brand|Revenue|Orders|Units Sold|
@@ -162,6 +167,7 @@ Product performance reveals a substantial difference between revenue contributio
 |8|Sony PlayStation 5|Electronics|Gaming Consoles|Sony|1,582,200|292|348|
 |9|Samsung 55" 4K Smart TV|Electronics|Televisions|Samsung|1,491,000|273|330|
 |10|Apple MacBook Air M1|Electronics|Laptops|Apple|1,450,500|269|321|
+
 The top revenue-generating products were all Electronics, led by the **iPhone 14 128GB**, **Dell Inspiron 15 3000**, and **HP Laptop 15**. This concentration reinforces the importance of Electronics to Lotus Group's overall revenue performance.
 #### 6.1.5 Sales Performance Summary
 The sales analysis indicates that Lotus Group generated strong overall revenue of **45.35M** across 12,000 orders during 2022–2024. Revenue experienced a decline in 2023 before recovering in 2024, while order volume increased consistently throughout the period. Store and regional performance was concentrated in Greater Cairo, which was the company's largest regional contributor. At the product level, Electronics was the dominant revenue category, while Clothing generated substantially higher unit volume. These results establish the key sales patterns that will be evaluated alongside profitability, customer behavior, and operational performance in the subsequent analyses.
@@ -174,12 +180,14 @@ The sales analysis indicates that Lotus Group generated strong overall revenue o
 |**Gross Profit**|**9,702,829**|
 |**Profit Margin**|**21.39%**|
 |**Profit per Order**|**808.57**|
+
 Across the 2022–2024 period, Lotus Group generated **45.35M in revenue** and incurred **35.65M in product costs**, resulting in **9.70M in gross profit**. The overall gross profit margin was **21.39%**, while average gross profit per order was **808.57**. Gross profit represents revenue after product costs and does not account for operating expenses.
 #### 6.2.2 Profitability by Product Category
 |Category|Revenue|Cost|Gross Profit|Profit Margin|Units Sold|
 |---|--:|--:|--:|--:|--:|
 |**Clothing**|10,959,159|5,759,750|**5,199,409**|**47.44%**|38,627|
 |**Electronics**|34,391,820|29,888,400|4,503,420|13.09%|4,686|
+
 Profitability differs substantially from the revenue pattern identified in Section 6.1. Although Electronics generated approximately **75.8% of total revenue**, it produced **4.50M in gross profit** at a **13.09% margin**. Clothing generated only **24.2% of revenue**, but produced **5.20M in gross profit** at a substantially higher **47.44% margin**. Clothing therefore contributed approximately **53.6% of total gross profit**, compared with approximately **46.4% from Electronics**.
 #### 6.2.3 Profitability by Store
 |Rank|Store|Region|Revenue|Gross Profit|Profit Margin|Profit per Order|
@@ -189,6 +197,7 @@ Profitability differs substantially from the revenue pattern identified in Secti
 |3|Lotus Mall of Egypt|Greater Cairo|5,168,939.00|**1,116,559.00**|21.60%|706.68|
 |4|Lotus Alexandria City Centre|Alexandria|4,488,620.50|**940,350.50**|20.95%|817.70|
 |5|Lotus San Stefano|Alexandria|3,843,826.00|**812,446.00**|21.14%|854.31|
+
 Store profitability broadly follows the revenue pattern observed in Section 6.1, with the highest-revenue stores also generating the highest absolute gross profit. Lotus Cairo Festival City generated the highest gross profit at **1.36M**, followed by City Stars at **1.15M** and Mall of Egypt at **1.12M**. However, differences in profit margin and profit per order show that revenue scale and profitability efficiency are not identical measures.
 #### 6.2.4 Product Profitability
 |Rank|Product|Category|Revenue|Gross Profit|Profit Margin|
@@ -203,6 +212,7 @@ Store profitability broadly follows the revenue pattern observed in Section 6.1,
 |8|Samsung 55 Smart TV 4K|Electronics|1,660,560|**197,760**|11.91%|
 |9|Lenovo IdeaPad 3 15|Electronics|1,421,905|**195,205**|13.73%|
 |10|Sony PS5 Console|Electronics|1,659,450|**194,250**|11.71%|
+
 The top 10 products by gross profit were all Electronics products. The Dell Inspiron 15 3000 generated the highest gross profit at **342,115**, despite ranking second in revenue among the products analyzed. This demonstrates that higher revenue does not necessarily result in higher absolute profit, as differences in product margins affect profitability.
 #### 6.2.5 Revenue vs Profitability
 The comparison between revenue and profitability shows that revenue leadership does not always correspond to profit leadership. For example, the iPhone 14 128GB generated the highest revenue among the top products at **2.22M**, but its gross profit was **263,360** with an **11.89% margin**. The Dell Inspiron 15 3000 generated slightly lower revenue of **2.21M**, but produced **342,115 in gross profit** with a **15.48% margin**.
@@ -217,6 +227,7 @@ This analysis evaluates customer and product performance by examining loyalty ti
 |Silver|866|13,902,370.00|3,502|16,053.55|4.04|3,969.84|
 |Gold|432|6,910,670.50|1,815|15,996.92|4.20|3,807.53|
 |Platinum|130|1,971,584.00|529|15,166.03|4.07|3,727.00|
+
 Customer performance was analyzed across the four loyalty tiers using customer count, revenue, order frequency, revenue per customer, and average order value. Bronze customers generated the highest total revenue at **22.57M**, primarily due to their larger customer population. In contrast, Silver customers recorded the highest revenue per customer at **16,053.55**, while Gold customers had the highest orders per customer at **4.20**. This indicates that differences in total revenue are influenced by customer population, while revenue per customer and order frequency provide additional insight into customer behavior and value.
 #### 6.3.2 Customer Performance by Region
 |Region|Customers|Revenue|Orders|Revenue / Customer|Orders / Customer|AOV|
@@ -228,6 +239,7 @@ Customer performance was analyzed across the four loyalty tiers using customer c
 |Upper Egypt|209|3,503,954.00|867|16,765.33|4.15|4,041.47|
 |Red Sea|162|2,275,544.50|630|14,046.57|3.89|3,611.98|
 |South Sinai|28|577,268.50|120|20,616.73|4.29|4,810.57|
+
 Customer performance was analyzed across regions using customer count, revenue, order frequency, revenue per customer, and average order value. Greater Cairo had the largest customer base with **1,346 customers** and generated the highest revenue at **20.66M**. Customer-level metrics varied across regions, with South Sinai recording the highest revenue per customer at **20,616.73** and the highest AOV at **4,810.57**; however, these figures are based on only **28 customers** and should therefore be interpreted in the context of its relatively small customer base.
 #### 6.3.3 Customer Value
 |Customer|Loyalty Tier|Region|Revenue|Orders|Units|AOV|
@@ -242,12 +254,14 @@ Customer performance was analyzed across regions using customer count, revenue, 
 |Nadia Hassan|Silver|Red Sea|110,525.50|7|33|15,789.36|
 |Radwa Gouda|Silver|Canal Zone|109,458.00|7|27|15,636.86|
 |Bassem Hamdy|Gold|Greater Cairo|109,320.50|11|49|9,938.23|
+
 Customer-level analysis was used to identify the highest-value customers based on total revenue generated during the 2022–2024 period. Hazem Amin generated the highest revenue at **123,695**, while Khaled Rizk recorded the highest average order value at **36,929.83** across three orders. In contrast, Bassem Hamdy placed the highest number of orders and purchased the most units among the top 10 customers, with **11 orders and 49 units**, but had a lower average order value of **9,938.23**. These results indicate that customer value can be driven by different combinations of purchase frequency, units purchased, and transaction value.
 #### 6.3.4 Product Performance from a Customer Perspective
 |Category|Customers|Orders|Units Sold|Revenue|Revenue / Customer|Orders / Customer|
 |---|--:|--:|--:|--:|--:|--:|
 |Electronics|1,692|2,477|4,686|34,391,820.00|20,326.13|1.46|
 |Clothing|2,933|11,411|38,627|10,959,159.00|3,736.50|3.89|
+
 Product-category performance was evaluated from a customer perspective by examining customer reach, purchase frequency, and revenue generated per customer. Electronics was purchased by **1,692 unique customers** and generated **34.39M** in revenue, resulting in revenue of **20,326.13 per customer**. However, customers purchasing Electronics placed an average of only **1.46 orders**. Clothing reached a substantially larger customer base of **2,933 customers** and generated **3.89 orders per customer**, although revenue per customer was lower at **3,736.50**. These results highlight two distinct purchasing patterns: higher-value but less frequent Electronics purchases and lower-value but more frequent Clothing purchases.
 #### 6.3.5 Customer & Product Performance Summary
 Customer and product analysis revealed meaningful differences in customer scale, purchase frequency, and transaction value. Bronze customers generated the highest total revenue at **22.57M**, primarily due to their larger customer population, while Silver customers recorded the highest revenue per customer at **16,053.55**. Greater Cairo had the largest customer base and generated the highest customer revenue at **20.66M**. At the individual level, high-value customers displayed different purchasing patterns, with some generating value through larger average orders and others through more frequent purchases. Product-category analysis showed a similar contrast: Electronics generated substantially higher revenue per customer at **20,326.13**, while Clothing reached more customers and generated more frequent purchases, with **3.89 orders per customer**. Overall, these results demonstrate that customer performance should not be evaluated using total revenue alone; customer population, purchase frequency, average order value, and product-category behavior provide additional context for understanding customer value.
@@ -279,6 +293,7 @@ Customer and product analysis revealed meaningful differences in customer scale,
 |Size Issue|173|617,976.00|16.38%|
 |Changed Mind|172|739,372.50|16.29%|
 |Quality Issue|158|652,840.00|14.96%|
+
 Across 2022–2024, Lotus Group recorded **1,056 returned orders out of 12,000 total orders**, resulting in an overall return rate of **8.80%** and returned value of **4.01M**. The return rate declined from **9.13% in 2022** to **8.45% in 2023**, before increasing slightly to **8.82% in 2024**. At store level, return rates ranged from **5.95% at Tanta Stars** to **10.15% at Sharm Plaza**. Return reasons were relatively distributed, with **Duplicate Order** being the most frequent at 18.66%, followed by **Defective Product** at 17.14% and **Wrong Item Delivered** at 16.57%. Of the 1,056 return records, **819 were refunded, 150 were pending, and 87 were rejected**, indicating that the majority of recorded returns had reached a refunded status.
 #### 6.4.2 Employee & Store Performance
 |Store|Region|Employees|Revenue|Orders|Revenue / Employee|
@@ -298,12 +313,14 @@ Across 2022–2024, Lotus Group recorded **1,056 returned orders out of 12,000 t
 |Lotus Zagazig Stars|Nile Delta|10|1,745,720.50|504|174,572.05|
 |Lotus Luxor Mall|Upper Egypt|7|1,055,315.50|334|150,759.36|
 |Lotus Sharm Plaza|South Sinai|13|1,320,701.00|335|101,592.38|
+
 Revenue per employee varied considerably across stores. Alexandria City Centre recorded the highest revenue per employee at **280,538.78**, followed by Mansoura Mega Mall at **248,653.18** and Port Said Mega at **234,158.32**. Sharm Plaza recorded the lowest revenue per employee at **101,592.38**. The results show that store revenue alone does not fully describe operational performance, as stores with different staffing levels can generate substantially different revenue per employee.
 #### 6.4.3 Ramadan vs Non-Ramadan Performance
 |Period|Average Daily Revenue|Average Order Value|
 |---|--:|--:|
 |Non-Ramadan|41.2K|3,829.63|
 |Ramadan|36.1K|3,228.10|
+
 Average daily revenue was approximately **41.2K during non-Ramadan periods**, compared with approximately **36.1K during Ramadan**. Average order value was also lower during Ramadan at **3,228.10**, compared with **3,829.63** during non-Ramadan periods, a difference of approximately **15.7%**.
 
 Because Ramadan and non-Ramadan periods contain different numbers of days in the dataset, average daily revenue provides a more appropriate comparison than total revenue across the two periods. The results indicate an observed difference in sales intensity between the two periods, but do not establish that Ramadan itself caused the difference.
@@ -324,6 +341,7 @@ The SQL preparation stage produced a cleaned and validated analytical layer for 
 |`fact_orders_all`|One row per order|`Order Id`|`fact_order_details`|
 |`fact_order_details`|One row per order-product line|`Product Id`|`dim_products`|
 |`fact_orders_all`|One row per order|`Order Id`|`fact_returns`|
+
 The Tableau data model uses `fact_orders_all` as the central order-level fact table, with customer, store, date, and employee dimensions connected through their respective keys. The order-detail table is related through `Order Id` and connects to the product dimension through `Product Id`, preserving the distinction between order-level and product-line-level data. The returns table is related directly to orders because it does not contain a `Product Id`, preventing unsupported product-level return attribution. Relationships were used rather than physical joins to preserve the native grain of each table and reduce the risk of duplicated measures during analysis.
 ### 7.3 Tableau Calculated Fields & Validation
 |Calculated Field|Formula|Validated Result|
@@ -340,6 +358,7 @@ The Tableau data model uses `fact_orders_all` as the central order-level fact ta
 |**Return Rate**|`[Returned Orders] / COUNTD([Order Id])`|8.80%|
 |**Revenue per Employee**|`SUM([Line Total Revenue]) / COUNTD([Employee Id])`|Validated at store level|
 |**YoY Revenue Growth**|Tableau Quick Table Calculation → Year over Year Growth|2023: -4.83%, 2024: +7.33%|
+
 The Tableau data model uses calculated fields to define the core business KPIs required for the dashboard. These calculations were validated against the corresponding SQL results to ensure consistency between the SQL analysis and Tableau reporting.
 
 The Tableau calculations produced results consistent with the SQL analysis, with minor differences only from display rounding. Validation also distinguished between the **3,000 customers** in the cleaned customer dimension and the **2,945 active customers** appearing in the order data. The returns calculation was refined to use `Return Id`, ensuring that the dashboard correctly counts the **1,056 recorded return transactions**. With the core calculations validated, the Tableau layer was ready for final dashboard implementation.
