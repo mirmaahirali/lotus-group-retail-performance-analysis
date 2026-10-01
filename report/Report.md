@@ -53,7 +53,7 @@ How is Lotus Group performing across stores, products, customers, and time, and 
 #### Core KPIs
 | KPI                      | Definition                                  |
 | ------------------------ | ------------------------------------------- |
-| **Return Rate**          | Returned Orders ÷ Total Orders*             |
+| **Return Rate**          | Returned Orders ÷ Total Orders              |
 | **Returned Orders**      | Number of orders associated with returns    |
 | **Returned Value**       | Value associated with returned orders/items |
 | **Revenue per Employee** | Revenue ÷ Number of Employees               |
