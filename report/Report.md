@@ -126,13 +126,13 @@ Across the 2022–2024 period, Lotus Group generated approximately **45.35M in r
 Revenue declined by **4.83% in 2023**, despite a slight increase in order volume. This coincided with a decline in AOV from **3,856.82 to 3,640.91**, indicating that the increase in orders was not sufficient to offset the lower average order value. In 2024, revenue recovered with **7.33% year-over-year growth**, supported by continued order growth and an improvement in AOV to **3,839.56**.
 #### 6.1.3 Store & Regional Performance
 ##### _Table 6.2 - Top 5 Stores by Revenue_
-|Rank|Store|Region|Revenue|Orders|Units Sold|
-|--:|---|---|--:|--:|--:|
-|1|Lotus Cairo Festival City|Greater Cairo|6,070,853.50|1,635|5,892|
-|2|Lotus City Stars|Greater Cairo|5,467,036.50|1,518|5,123|
-|3|Lotus Mall of Egypt|Greater Cairo|5,168,939.00|1,518|5,860|
-|4|Lotus Alexandria City Centre|Alexandria|4,488,620.50|1,187|4,090|
-|5|Lotus San Stefano|Alexandria|3,843,826.00|1,010|3,602|
+| Rank | Store | Region | Revenue | Orders | Units Sold |
+|---|---|---|---:|---:|---:|
+| 1 | Lotus Cairo Festival City | Greater Cairo | 6,070,853.50 | 1,676 | 5,892 |
+| 2 | Lotus City Stars | Greater Cairo | 5,467,036.50 | 1,415 | 5,123 |
+| 3 | Lotus Mall of Egypt | Greater Cairo | 5,168,939.00 | 1,580 | 5,860 |
+| 4 | Lotus Alexandria City Centre | Alexandria | 4,488,620.50 | 1,150 | 4,090 |
+| 5 | Lotus San Stefano | Alexandria | 3,843,826.00 | 951 | 3,602 |
 
 Sales performance varies considerably across stores and regions. **Lotus Cairo Festival City** was the highest-revenue individual store, generating approximately **6.07M**. The three highest-revenue stores—Cairo Festival City, City Stars, and Mall of Egypt—were all located in **Greater Cairo**.
 ##### _Table 6.3 - Sales Performance by Region_
