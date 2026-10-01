@@ -79,6 +79,7 @@ lotus-group-retail-performance-analysis/
 ├── tableau/       # Tableau workbook
 ├── .gitignore
 └── README.md
+```
 
 ## 📄 Detailed Report
 
